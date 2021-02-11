@@ -1,0 +1,16 @@
+/home/owner/dojo/c#colections/deck-cards/bin/Debug/net5.0/deck-cards
+/home/owner/dojo/c#colections/deck-cards/bin/Debug/net5.0/deck-cards.deps.json
+/home/owner/dojo/c#colections/deck-cards/bin/Debug/net5.0/deck-cards.runtimeconfig.json
+/home/owner/dojo/c#colections/deck-cards/bin/Debug/net5.0/deck-cards.runtimeconfig.dev.json
+/home/owner/dojo/c#colections/deck-cards/bin/Debug/net5.0/deck-cards.dll
+/home/owner/dojo/c#colections/deck-cards/bin/Debug/net5.0/ref/deck-cards.dll
+/home/owner/dojo/c#colections/deck-cards/bin/Debug/net5.0/deck-cards.pdb
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.csprojAssemblyReference.cache
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.AssemblyInfoInputs.cache
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.AssemblyInfo.cs
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.csproj.CoreCompileInputs.cache
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.dll
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/ref/deck-cards.dll
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.pdb
+/home/owner/dojo/c#colections/deck-cards/obj/Debug/net5.0/deck-cards.genruntimeconfig.cache
